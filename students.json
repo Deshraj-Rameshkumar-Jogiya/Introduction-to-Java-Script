@@ -1,0 +1,38 @@
+[
+    { 
+    "name": "Deshraj Jogiya", 
+    "Course": "IFT458/598",
+    "age": 22,
+    "languageknown": ["JavaScript", "PHP", "Python"] 
+  },
+  {
+     "name": "Dripraj Jogiya",
+     "Course": "IFT458/598",
+     "age": 27,
+     "languageknown": ["PHP", "Go", "JavaScript"] 
+  },
+  { 
+    "name": "Ishan Joshi", 
+    "Course": "IFT458/598",
+    "age": 22,
+    "languageknown": ["JavaScript", "PHP", "Python"] 
+  },
+  { 
+    "name": "Rutvik Patel", 
+    "Course": "IFT458/598",
+    "age": 25,
+    "languageknown": ["JavaScript", "PHP", "Python"] 
+  },
+  { 
+    "name": "Abhishek Mehata", 
+    "Course": "IFT458/598",
+    "age": 18,
+    "languageknown": ["JavaScript", "PHP", "Python"] 
+  },
+  { 
+    "name": " Suriya Boddu", 
+    "Course": "IFT458/598",
+    "age": 12,
+    "languageknown": ["JavaScript", "PHP", "Python"] 
+  }
+]

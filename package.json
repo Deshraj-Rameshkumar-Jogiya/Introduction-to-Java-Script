@@ -1,0 +1,19 @@
+{
+  "name": "m2-a1-introduction-to-java-script-1",
+  "version": "1.0.0",
+  "description": "\"Creating the Introductory Java Script Project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deshraj-Rameshkumar-Jogiya/Introduction-to-Java-Script.git"
+  },
+  "author": "\"Deshraj R Jogiya (Student)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deshraj-Rameshkumar-Jogiya/Introduction-to-Java-Script/issues"
+  },
+  "homepage": "https://github.com/Deshraj-Rameshkumar-Jogiya/Introduction-to-Java-Script#readme"
+}
